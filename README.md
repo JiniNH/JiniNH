@@ -10,7 +10,7 @@
 
 | 게임 | 장르 | 플랫폼 | 링크 |
 |---|---|---|---|
-| **Grid64 : 블록 퍼즐** | 캐주얼 블록 퍼즐 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.jiniworks.grid64) · [포트폴리오](https://github.com/JiniNH/Grid64-Portfolio) |
+| **Grid64 : 블록 퍼즐** | 캐주얼 블록 퍼즐 | Android | [Google Play](https://play.google.com/store/apps/details?id=com.jiniworks.grid64) · [소개 · 코드](https://github.com/JiniNH/Grid64) |
 
 ### 🛠 사용 기술
 
